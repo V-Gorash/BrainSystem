@@ -32,4 +32,5 @@
 ## Сторонние зависимости
 Для прошивки требуются библиотеки [EncButton](https://github.com/GyverLibs/EncButton) и [TimerMs](https://github.com/GyverLibs/TimerMs)
 
+## Обратная связь
 По любым вопросам можете писать [t.me/VGorash](https://t.me/VGorash)
